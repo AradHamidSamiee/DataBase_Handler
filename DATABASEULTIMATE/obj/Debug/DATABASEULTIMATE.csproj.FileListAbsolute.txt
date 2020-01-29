@@ -1,0 +1,10 @@
+D:\Projects Courses\ASP.net by C#  Projects\1\DATABASEULTIMATE\DATABASEULTIMATE\bin\Debug\DATABASEULTIMATE.exe.config
+D:\Projects Courses\ASP.net by C#  Projects\1\DATABASEULTIMATE\DATABASEULTIMATE\bin\Debug\DATABASEULTIMATE.exe
+D:\Projects Courses\ASP.net by C#  Projects\1\DATABASEULTIMATE\DATABASEULTIMATE\bin\Debug\DATABASEULTIMATE.pdb
+D:\Projects Courses\ASP.net by C#  Projects\1\DATABASEULTIMATE\DATABASEULTIMATE\obj\Debug\DATABASEULTIMATE.csprojResolveAssemblyReference.cache
+D:\Projects Courses\ASP.net by C#  Projects\1\DATABASEULTIMATE\DATABASEULTIMATE\obj\Debug\DATABASEULTIMATE.Form1.resources
+D:\Projects Courses\ASP.net by C#  Projects\1\DATABASEULTIMATE\DATABASEULTIMATE\obj\Debug\DATABASEULTIMATE.Properties.Resources.resources
+D:\Projects Courses\ASP.net by C#  Projects\1\DATABASEULTIMATE\DATABASEULTIMATE\obj\Debug\DATABASEULTIMATE.csproj.GenerateResource.Cache
+D:\Projects Courses\ASP.net by C#  Projects\1\DATABASEULTIMATE\DATABASEULTIMATE\obj\Debug\DATABASEULTIMATE.exe
+D:\Projects Courses\ASP.net by C#  Projects\1\DATABASEULTIMATE\DATABASEULTIMATE\obj\Debug\DATABASEULTIMATE.pdb
+D:\Projects Courses\ASP.net by C#  Projects\1\DATABASEULTIMATE\DATABASEULTIMATE\obj\Debug\DATABASEULTIMATE.DBSHOW.resources
